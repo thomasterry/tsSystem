@@ -1,0 +1,6 @@
+D:\Thomas\tsSystem\TSSystem\bin\Debug\TSSystem.exe.config
+D:\Thomas\tsSystem\TSSystem\bin\Debug\TSSystem.exe
+D:\Thomas\tsSystem\TSSystem\bin\Debug\TSSystem.pdb
+D:\Thomas\tsSystem\TSSystem\obj\Debug\TSSystem.csprojResolveAssemblyReference.cache
+D:\Thomas\tsSystem\TSSystem\obj\Debug\TSSystem.exe
+D:\Thomas\tsSystem\TSSystem\obj\Debug\TSSystem.pdb

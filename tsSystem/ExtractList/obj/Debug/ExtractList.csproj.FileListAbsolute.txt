@@ -1,0 +1,6 @@
+D:\Thomas\tsSystem\ExtractList\bin\Debug\ExtractList.exe.config
+D:\Thomas\tsSystem\ExtractList\obj\Debug\ExtractList.csprojResolveAssemblyReference.cache
+D:\Thomas\tsSystem\ExtractList\bin\Debug\ExtractList.exe
+D:\Thomas\tsSystem\ExtractList\bin\Debug\ExtractList.pdb
+D:\Thomas\tsSystem\ExtractList\obj\Debug\ExtractList.exe
+D:\Thomas\tsSystem\ExtractList\obj\Debug\ExtractList.pdb

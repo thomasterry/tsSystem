@@ -1,0 +1,6 @@
+D:\Thomas\tsSystem\TSTrade\bin\Debug\TSTrade.exe.config
+D:\Thomas\tsSystem\TSTrade\bin\Debug\TSTrade.exe
+D:\Thomas\tsSystem\TSTrade\bin\Debug\TSTrade.pdb
+D:\Thomas\tsSystem\TSTrade\obj\Debug\TSTrade.csprojResolveAssemblyReference.cache
+D:\Thomas\tsSystem\TSTrade\obj\Debug\TSTrade.exe
+D:\Thomas\tsSystem\TSTrade\obj\Debug\TSTrade.pdb
